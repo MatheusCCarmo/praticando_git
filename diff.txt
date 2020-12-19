@@ -1,0 +1,2 @@
+git diff -> diferença entre o que está em Stage e o que não está em Stage 
+git diff --cached -> diferença entre o que está em Stage e o ultmimo Commit
